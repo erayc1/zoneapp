@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548039555527",
+    "project_id": "zonneapp-c9000",
+    "storage_bucket": "zonneapp-c9000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548039555527:android:b0a0a4247f26f7079381e2",
+        "android_client_info": {
+          "package_name": "com.zonne.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0WCorLlgHfGSsNz6OPlBPjnKTGaZRLd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
